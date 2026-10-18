@@ -4,7 +4,7 @@ Educational data-analysis demo using Python, Pandas, Scikit-learn and Streamlit.
 ## Run
 ```bash
 python -m venv .venv
-.venv\\Scripts\\activate
+.venv\Scripts\activate
 pip install -r requirements.txt
 python generate_data.py
 streamlit run app.py
